@@ -1,1 +1,54 @@
-ECHO is on.
+# Pauls Awesome Soccer Game 
+
+1. To start the game type in python3 paulsawesomegame.py in terminal.
+2. Enter Your Name 
+2. Then you will be asked to whether you want to be the goalie or shooter. 
+3. After best of ten attempts is exhusted, game will automatically end and give you a score.
+4. Best of ten wins the game and your score is stored. 
+
+## Overview
+Become a soccer hero and score the winning penalty kick or be the goal keeper that saves the day!
+
+## Technical Summary
+
+* Backend: Python
+* Framework: Flask
+* Front End: HTML, CSS
+
+## Features
+
+* Choose from 5 different areas to save or shoot.
+
+* Player will be able to enter name and save it to a high score ranking.
+
+* Player will be able to restart penalty shootout after a win or a fail. 
+
+## Milestone List
+
+Week 1
+
+    [x] Create README file
+    [x] Create a GitHub Repo and Start on a Project Plan
+
+Week 2-3
+
+    [ ] Create a class, then create at least one object of that class and populate it with data
+    [ ] Create a form and save the response (on click of Submit button)
+    [ ] Implement a "master loop" console application where the user can repeatedly enter commands/perform actions, including choosing to exit the program
+    [ ]Implement a log that records erors, invalid inputs, or other important events and writes them to a text file. 
+
+    
+Week 4-5
+
+    [ ] Scaffold an initial migration
+    [ ] Create 3 or more unit tests for your application
+  
+Week 6
+
+    [ ] Update Readme form
+    [ ] Submit to mentors for review 
+    [ ] Push final project to GitHub
+
+
+
+
