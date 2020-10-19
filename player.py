@@ -15,7 +15,7 @@ options=["TL ", "BL" , "M" , "TR", "BR"]
 computerOption = random.choice(options)
 
 #Player decides where they want to shoot 
-userOption =- input("Where would you like to shoot?")
+userOption = input("Where would you like to shoot?")
 
 #Score is updated after every attempt
 
