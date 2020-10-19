@@ -8,8 +8,6 @@ class Player:
         self.last = last
         self.score = 0
 
-
-
 #Player decides whether to be a goalkeeper or a shooter
 
 #Program decides where goalkeeper attempts to save
