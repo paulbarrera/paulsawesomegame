@@ -1,10 +1,10 @@
 # Pauls Awesome Soccer Game 
 
-1. To start the game type in python3 player.py in terminal.
+1. To start the game type in python3 main.py in terminal.
 2. Enter Your Name 
 2. Then you will be asked to whether you want to be the goalie or shooter. 
 3. After best of 5 attempts is exhusted, game will automatically end and give you a score.
-4. Best of ten wins the game and your score is stored. 
+4. Best of five games wins between the player and the computer.
 
 ## Overview
 Become a soccer hero and score the winning penalty kick or be the goal keeper that saves the day!
