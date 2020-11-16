@@ -17,7 +17,7 @@ Become a soccer hero and score the winning penalty kick or be the goal keeper th
 
 ## Features
 
-* Choose from 5 different areas to save or shoot.
+* Choose from 5 different areas to shoot.
 
 * Player will be able to enter name and save it to a high score ranking.
 
@@ -32,21 +32,21 @@ Week 1
 
 Week 2-3
 
-    [ ] Create a class, then create at least one object of that class and populate it with data
-    [ ] Create a form and save the response (on click of Submit button)
-    [ ] Implement a "master loop" console application where the user can repeatedly enter commands/perform actions, including choosing to exit the program
+    [x] Create a class, then create at least one object of that class and populate it with data
+    [x] Create a form and save the response (on click of Submit button)
+    [x] Implement a "master loop" console application where the user can repeatedly enter commands/perform actions, including choosing to exit the program
     [ ]Implement a log that records erors, invalid inputs, or other important events and writes them to a text file. 
 
     
 Week 4-5
 
-    [ ] Scaffold an initial migration
+    [x] Scaffold an initial migration
     [ ] Create 3 or more unit tests for your application
   
 Week 6
 
-    [ ] Update Readme form
-    [ ] Submit to mentors for review 
+    [x] Update Readme form
+    [x] Submit to mentors for review 
     [ ] Push final project to GitHub
 
 
