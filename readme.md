@@ -1,25 +1,27 @@
 # Pauls Awesome Soccer Game 
 
+*I am still working on fulfilling all the requirements. Unfortunately, the code of two of the three requirements I created didn't work. However, I wanted to submit my effort, I know full well that my project is not complete. I wanted to say thank you to Code Louisville and the mentors for this opportunity. I am still and enthusisatic and passionate about coding and will continue studying hard to get better and better. Thank you again for your time.* 
+
 1. To start the game type in python3 main.py in terminal.
 2. Enter Your Name 
-2. Then you will be asked to whether you want to be the goalie or shooter. 
+2. Then you will be asked to whether you want to play or not. 
 3. After best of 5 attempts is exhusted, game will automatically end and give you a score.
-4. Best of five games wins between the player and the computer.
+4. The game will ask you if you would like a restart or not.
 
 ## Overview
 Become a soccer hero and score the winning penalty kick or be the goal keeper that saves the day!
 
 ## Technical Summary
 
-* Backend: Python
+* Backend: Python3
 * Framework: Flask
 * Front End: HTML, CSS
 
 ## Features
 
-* Choose from 5 different areas to shoot.
+* Choose from 5 different areas to shoot. Type the two characters to choose location. Top Left(TR), Top Right(TR), Middle(M), Bottom Left(BL), Bottom Right(BR).
 
-* Player will be able to enter name and save it to a high score ranking.
+* Player will be able to enter name and save it to a high score ranking. *still working on this*
 
 * Player will be able to restart penalty shootout after a win or a fail. 
 
@@ -32,23 +34,15 @@ Week 1
 
 Week 2-3
 
-    [x] Create a class, then create at least one object of that class and populate it with data
-    [x] Create a form and save the response (on click of Submit button)
-    [x] Implement a "master loop" console application where the user can repeatedly enter commands/perform actions, including choosing to exit the program
-    [ ]Implement a log that records erors, invalid inputs, or other important events and writes them to a text file. 
-
+    [x] Create a class, then create at least one object of that class and populate it with data.
+    [x] Implement a "master loop" console application where the user can repeatedly enter commands/perform actions, including choosing to exit the program. 
     
 Week 4-5
 
     [x] Scaffold an initial migration
-    [ ] Create 3 or more unit tests for your application
   
 Week 6
 
     [x] Update Readme form
     [x] Submit to mentors for review 
-    [ ] Push final project to GitHub
-
-
-
-
+    [x] Push final project to GitHub

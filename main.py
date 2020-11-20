@@ -1,9 +1,22 @@
-
-import random
-import sys
+import random,sys
 import datetime
 import time
 import pickle
+import requests
+import pprint
+import json
+import base64, csv
+
+
+# url = requests.get('https://soccer-livescore.p.rapidapi.com/v1/global/getleague')
+
+# headers = {
+#     'x-rapidapi-key': "f002a8555cmsh0b843a8cf0b5af9p1b7847jsneaf4126b8820",
+#     'x-rapidapi-host': "soccer-livescore.p.rapidapi.com"
+#     }
+# response = requests.request("GET", url, headers=headers)
+# print(response.text)
+
 #Local time
 now = datetime.datetime.now()
 print ("USL EastCoast Time : ")
@@ -27,8 +40,9 @@ else:
 
 #Game routine with definite iteration
 def soccer_game():
+    score = 0
     for i in range(0,5):
-        score = 0
+        
         options=["TL","BL","M","TR","BR"]
         computerOption = random.choice(options)
 
