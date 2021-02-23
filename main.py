@@ -7,16 +7,6 @@ import pprint
 import json
 import base64, csv
 
-
-# url = requests.get('https://soccer-livescore.p.rapidapi.com/v1/global/getleague')
-
-# headers = {
-#     'x-rapidapi-key': "f002a8555cmsh0b843a8cf0b5af9p1b7847jsneaf4126b8820",
-#     'x-rapidapi-host': "soccer-livescore.p.rapidapi.com"
-#     }
-# response = requests.request("GET", url, headers=headers)
-# print(response.text)
-
 #Local time
 now = datetime.datetime.now()
 print ("USL EastCoast Time : ")
