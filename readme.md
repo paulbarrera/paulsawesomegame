@@ -1,7 +1,5 @@
 # Pauls Awesome Soccer Game 
 
-*I am still working on fulfilling all the requirements. Unfortunately, the code of two of the three requirements I created didn't work. However, I wanted to submit my effort, I know full well that my project is not complete. I wanted to say thank you to Code Louisville and the mentors for this opportunity. I am still and enthusisatic and passionate about coding and will continue studying hard to get better and better. Thank you again for your time.* 
-
 1. To start the game type in python3 main.py in terminal.
 2. Enter Your Name 
 2. Then you will be asked to whether you want to play or not. 
